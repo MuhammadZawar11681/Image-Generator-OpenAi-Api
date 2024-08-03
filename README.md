@@ -2,6 +2,12 @@
 
 Welcome to the AI Image Generator, a dynamic React web application that leverages the OpenAI DALL·E 3 model to transform your text prompts into stunning images. Dive into the world of AI-driven art creation with ease and precision.
 
+![DALL·E 3 Logo](./public/Task%208.png)
+
+## Live Demo
+
+Check out the live demo [here](https://main--bytewisetask8.netlify.app/).
+
 ## Key Features
 
 - **Text Prompt Image Generation:** Convert your text descriptions into visual art.
