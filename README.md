@@ -35,7 +35,7 @@ Follow these steps to set up the AI Image Generator:
 
 2. Navigate to the project directory:
    ```
-   cd dall-e-image-generator
+   cd Image-Generator-OpenAi-Api
    ```
 3. Install the required dependencies:
    ```
